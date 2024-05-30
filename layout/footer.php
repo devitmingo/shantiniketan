@@ -30,7 +30,7 @@
                                     <h2>About Us</h2>
                                 </div>
                                 <div class="f-contact">
-                                     <p>Suspendisse non sem ante. Cras pretium gravida leo a convallis. Nam malesuada interdum metus, sit amet dictum ante congue eu. Maecenas ut maximus enim.</p>
+                                     <p>Shantiniketan College was established om 2000-01, in the college was promoted by Late Shri Ramlal Gupta Merorial Education Society with The motto to serve needy and poor people.</p>
                                     
                                     </div>
                                  <div class="footer-social mt-10">                                    
