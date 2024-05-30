@@ -6,7 +6,7 @@
         <title>SNC-Shanatiniketan College,Raipur,Chhattisgarh</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-		<link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico">
+		<link rel="shortcut icon" type="images/snc.jpeg" href="images/snc.jpeg">
         <!-- Place favicon.ico in the root directory -->
 
 		<!-- CSS here -->

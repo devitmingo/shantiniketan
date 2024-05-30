@@ -39,7 +39,7 @@
                                          <h2 data-animation="fadeInUp" data-delay=".4s">Education is the best key success in life</h2>
                                        
                                           <div class="slider-btn mt-30">     
-                                            <a href="about.html" class="btn ss-btn mr-15" data-animation="fadeInLeft" data-delay=".4s">Discover More <i class="fal fa-long-arrow-right"></i></a>
+                                            <a href="about.php" class="btn ss-btn mr-15" data-animation="fadeInLeft" data-delay=".4s">Discover More <i class="fal fa-long-arrow-right"></i></a>
                                             <a href="contact.html" class="btn ss-btn active" data-animation="fadeInLeft" data-delay=".4s">Contact Us <i class="fal fa-long-arrow-right"></i></a>
                                         </div>        
                                                               
@@ -69,7 +69,7 @@
                                 <img src="img/icon/sve-icon4.png" alt="icon01">
                                 </div>
                                 <div class="text">
-                                    <h5><a href="about.html">Aim and Objectives</a></h5>
+                                    <h5><a href="about.php">Aim and Objectives</a></h5>
                                     <p>The aim of Shantiniketan is to produce a new generation of professionals read up the chalenges of industry & indian</p>
                                     <a href="about.php">Read More <i class="fal fa-long-arrow-right"></i></a>
                                 </div>
@@ -85,7 +85,7 @@
                                 <img src="img/icon/sve-icon5.png" alt="icon01">
                                 </div>
                                 <div class="text">
-                                    <h5><a href="about.html">Philosophy</a></h5>
+                                    <h5><a href="about.php">Philosophy</a></h5>
                                     <p>The Shantiniketan College Believes in the culture of excellence focusing itself on socioeconomic challenges ...</p>
                                     <a href="about.php">Read More <i class="fal fa-long-arrow-right"></i></a>
                                 </div>
@@ -101,9 +101,9 @@
                                 <img src="img/icon/sve-icon6.png" alt="icon01">
                                 </div>
                                 <div class="text">
-                                    <h5><a href="about.html">Our mission </a></h5>
+                                    <h5><a href="about.php">Our mission </a></h5>
                                     <p>To promote and provide the opportunity for participation in the learning process by those with the</p>
-                                    <a href="about.html">Read More <i class="fal fa-long-arrow-right"></i></a>
+                                    <a href="about.php">Read More <i class="fal fa-long-arrow-right"></i></a>
                                 </div>
                              </div>
                                 
@@ -117,16 +117,16 @@
             
              <!-- about-area -->
             <section class="about-area about-p pt-120 pb-120 p-relative fix" style="background: #eff7ff;">
-                <div class="animations-02"><img src="img/bg/an-img-02.png" alt="contact-bg-an-01"></div>
+               
                 <div class="container">
                     <div class="row justify-content-center align-items-center">
                          <div class="col-lg-6 col-md-12 col-sm-12">
                             <div class="s-about-img p-relative  wow fadeInLeft animated" data-animation="fadeInLeft" data-delay=".4s">
-                                <img src="img/features/about_img_02.png" alt="img">   
-                               <div class="about-text second-about">
+                                <img src="images/snc_college.jpeg" alt="img">   
+                               <!-- <div class="about-text second-about">
                                     <span>24 <sub>+</sub></span> 
                                     <p>Years of Experience</p>
-                                </div>
+                                </div> -->
                             </div>
                           
                         </div>
@@ -143,7 +143,7 @@
                                    
                                 </div>
                                  <div class="slider-btn mt-20">                                          
-                                     <a href="about.html" class="btn ss-btn smoth-scroll">Read More <i class="fal fa-long-arrow-right"></i></a>				
+                                     <a href="about.php" class="btn ss-btn smoth-scroll">Read More <i class="fal fa-long-arrow-right"></i></a>				
                                 </div>
                             </div>
                         </div>
@@ -450,7 +450,7 @@
                         </div>
                         <div class="col-lg-4 text-right"> 
                             <div class="cta-btn s-cta-btn wow fadeInRight animated mt-30" data-animation="fadeInDown animated" data-delay=".2s">
-									  <a href="about.html" class="btn ss-btn smoth-scroll">Financial Aid <i class="fal fa-long-arrow-right"></i></a>			
+									  <a href="about.php" class="btn ss-btn smoth-scroll">Financial Aid <i class="fal fa-long-arrow-right"></i></a>			
 								</div>
                         </div>
 					
@@ -786,7 +786,7 @@
                                    <p class="txt-clr">Our community is being called to reimagine the future. As the only university where a renowned design school comes together with premier colleges, we are making learning more relevant and transformational.</p>
                                    <p class="txt-clr">At Estuidar University, we prepare you to launch your career by pro supportive, creative, and professional environment from which to learn practical skills, build a network of industry contacts.</p>
                                  <div class="slider-btn mt-20">                                          
-                                     <a href="about.html" class="btn ss-btn smoth-scroll">Read More <i class="fal fa-long-arrow-right"></i></a>				
+                                     <a href="about.php" class="btn ss-btn smoth-scroll">Read More <i class="fal fa-long-arrow-right"></i></a>				
                                 </div>
                             </div>
                         </div>
@@ -926,27 +926,14 @@
             <section class="newslater-area pt-60 pb-60" style="background-color: #125875;">
                 <div class="container" >
                     <div class="row align-items-center">
-                        <div class="col-xl-7 col-lg-7">
+                        <div class="col-xl-12 col-lg-12">
                             <div class="section-title newslater-title">
                                 <div class="icon">
-                                    <img src="img/icon/send-mail.png" alt="img">
-                                </div>
-                                <div class="text">
-                                    <h2>Subscribe for Newsletter</h2>
-                                    <p>Manage Your Business With Our Software</p>
-                                </div>
-                                
+                                    <img src="images/sncraipur.jpeg" alt="img">
+                                </div>                                
                             </div>
                         </div>
-                        <div class="col-xl-5 col-lg-5">
-                             <form name="ajax-form" id="contact-form4" action="#" method="post" class="contact-form newslater">
-                               <div class="form-group p-relative">
-                                  <input class="form-control" id="email2" name="email" type="email" placeholder="Email Address..." value="" required=""> 
-                                  <button type="submit" class="btn btn-custom" id="send2">Subscribe Now</button>
-                               </div>
-                               <!-- /Form-email -->	
-                            </form>
-                        </div>
+                       
                     </div>
                    
                 </div>
