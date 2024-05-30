@@ -922,24 +922,5 @@
             </section> -->
             <!-- blog-area-end -->
             
-             <!-- newslater-area -->
-            <section class="newslater-area pt-60 pb-60" style="background-color: #125875;">
-                <div class="container" >
-                    <div class="row align-items-center">
-                        <div class="col-xl-12 col-lg-12">
-                            <div class="section-title newslater-title">
-                                <div class="icon">
-                                    <img src="images/sncraipur.jpeg" alt="img">
-                                </div>                                
-                            </div>
-                        </div>
-                       
-                    </div>
-                   
-                </div>
-            </section>
-            <!-- newslater-aread-end -->
-         
-        </main>
-        <!-- main-area-end -->
+
 <?php include_once('layout/footer.php'); ?>

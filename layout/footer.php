@@ -1,4 +1,23 @@
-
+             <!-- newslater-area -->
+             <section class="newslater-area pt-60 pb-60" style="background-color: #125875;">
+                <div class="container" >
+                    <div class="row align-items-center">
+                        <div class="col-xl-12 col-lg-12">
+                            <div class="section-title newslater-title">
+                                <div class="icon">
+                                    <img src="images/sncraipur.jpeg" alt="img">
+                                </div>                                
+                            </div>
+                        </div>
+                       
+                    </div>
+                   
+                </div>
+            </section>
+            <!-- newslater-aread-end -->
+         
+        </main>
+        <!-- main-area-end -->
         <!-- footer -->
         <footer class="footer-bg footer-p pt-90" style="background-color: #125875; background-image: url(img/bg/footer-bg.png);">
             <div class="footer-top pb-70">
@@ -77,11 +96,9 @@
                                 <a href="index.php"><img src="images/snc.jpeg" alt="img" style="height:70px;width:70px;"></a>   
                             </div>
                         </div>
-                        <div class="col-lg-4 text-center">          
-                            
-                        </div>
+                       
                        <div class="col-lg-4 text-right text-xl-right">
-                           Copyright &copy; Shanatiniketan College 2023 . All rights reserved. Developed By <a href="https://itmingo.com/" target="_blank" >IT Mingo LLP</a>     
+                           Copyright &copy; Shanatiniketan College 2023 . All rights reserved. </br> Developed By <a href="https://itmingo.com/" target="_blank" >IT Mingo LLP</a>     
                         </div>
                     </div>
                 </div>

@@ -31,51 +31,45 @@
                 </div>
             </section>
             <!-- breadcrumb-area-end -->
-              <!-- about-area -->
-            <section class="about-area about-p pt-120 pb-120 p-relative fix">
-                <div class="animations-02"><img src="img/bg/an-img-02.png" alt="contact-bg-an-01"></div>
-                <div class="container">
-                    <div class="row justify-content-center align-items-center">
-                         <div class="col-lg-6 col-md-12 col-sm-12">
-                            <div class="s-about-img p-relative  wow fadeInLeft animated" data-animation="fadeInLeft" data-delay=".4s">
-                                <img src="img/features/about_img_05.png" alt="img">   
-                               <div class="about-text second-about three-about">
-                                    <span>25 <sub>+</sub></span> 
-                                    <p>Years of Experience</p>
-                                </div>
-                            </div>
-                          
-                        </div>
-                        
-					<div class="col-lg-6 col-md-12 col-sm-12">
-                            <div class="about-content s-about-content pl-15 wow fadeInRight  animated" data-animation="fadeInRight" data-delay=".4s">
-                                <div class="about-title second-title pb-25">  
-                                    <h5><i class="fal fa-graduation-cap"></i> About Our University</h5>
-                                    <h2>A Few Words About the University</h2>                                   
-                                </div>
-                                   <p class="txt-clr">Our community is being called to reimagine the future. As the only university where a renowned design school comes together with premier colleges, we are making learning more relevant and transformational.</p>
-                                    <p>We are proud to offer top ranige in employment services such and asser payroll and benefits administrato managemen and asistance with global business range ployment employer  readings from religious texts or literature are also commonly inc compliance.</p>
-                                    <div class="about-content2">
-                                    <div class="row">
-                                    <div class="col-md-12">
-                                     <ul class="green2">                                              
-                                                <li><div class="abcontent"><div class="ano"><span>01</span></div> <div class="text"><h3>Doctoral Degrees</h3> <p>consectetur adipiscing elit sed do eiusmod tem incid idunt.</p></div></div></li>
-                                                <li><div class="abcontent"><div class="ano"><span>02</span></div> <div class="text"><h3>Global Students</h3> <p>consectetur adipiscing elit sed do eiusmod tem incid idunt.</p></div></div></li>
-                                                
-                                           </ul>
-                                    </div>
-                                    </div>
-                                </div>
-                                 
-                            </div>
-                        </div>
-                     
-                    </div>
-                </div>
-            </section>
-            <!-- about-area-end -->
+             <!-- about-area -->
+             <section class="about-area about-p pt-120 pb-120 p-relative fix" style="background: #eff7ff;">
+               
+               <div class="container">
+                   <div class="row justify-content-center align-items-center">
+                        <div class="col-lg-6 col-md-12 col-sm-12">
+                           <div class="s-about-img p-relative  wow fadeInLeft animated" data-animation="fadeInLeft" data-delay=".4s">
+                               <img src="images/snc_college.jpeg" alt="img">   
+                              <!-- <div class="about-text second-about">
+                                   <span>24 <sub>+</sub></span> 
+                                   <p>Years of Experience</p>
+                               </div> -->
+                           </div>
+                         
+                       </div>
+                       
+                   <div class="col-lg-6 col-md-12 col-sm-12">
+                           <div class="about-content s-about-content pl-15 wow fadeInRight  animated" data-animation="fadeInRight" data-delay=".4s">
+                               <div class="about-title second-title pb-25">  
+                                   <h5><i class="fal fa-graduation-cap"></i> About Us</h5>
+                                   <h2>Shantiniketan College</h2>                                   
+                               </div>
+                                  <p class="txt-clr"><strong>Shantiniketan College</strong> was established om 2000-01, in the college was promoted by <strong>Late Shri Ramlal Gupta Merorial Education Society </strong>with The motto to serve needy and poor people.</p>
+                                   <p>It is a persistently flourshing of moral and cultural values,devoted to the cause of social and intellectual upliftment of the budding generation of the nation. The objective is to provide desirable for importing professional education and vocational training.</p>
+                                  
+                                  
+                               </div>
+                                <div class="slider-btn mt-20">                                          
+                                    <a href="about.php" class="btn ss-btn smoth-scroll">Read More <i class="fal fa-long-arrow-right"></i></a>				
+                               </div>
+                           </div>
+                       </div>
+                    
+                   </div>
+               </div>
+           </section>
+           <!-- about-area-end -->
             <!-- cta-area -->
-            <section class="cta-area cta-bg pt-50 pb-50" style="background-image:url(img/bg/cta_bg02.png)">
+            <!-- <section class="cta-area cta-bg pt-50 pb-50" style="background-image:url(img/bg/cta_bg02.png)">
                 <div class="container">
                     <div class="row justify-content-center">
                         <div class="col-lg-8">
@@ -93,10 +87,10 @@
 					
                     </div>
                 </div>
-            </section>
+            </section> -->
             <!-- cta-area-end -->	
            <!-- frequently-area -->
-            <section class="faq-area pt-120 pb-120 p-relative fix">
+            <!-- <section class="faq-area pt-120 pb-120 p-relative fix">
                 <div class="animations-10"><img src="img/bg/an-img-04.png" alt="an-img-01"></div>
                 <div class="animations-08"><img src="img/bg/an-img-05.png" alt="contact-bg-an-01"></div>
                 <div class="container">
@@ -232,10 +226,10 @@
                         </div>
                     </div>
                 </div>
-            </section>
+            </section> -->
             <!-- frequently-area-end -->	
            <!-- steps-area -->
-            <section class="steps-area2 p-relative fix"  style="background-color: #125875;">
+            <!-- <section class="steps-area2 p-relative fix"  style="background-color: #125875;">
                 <div class="animations-02"><img src="img/bg/an-img-10.png" alt="an-img-01"></div>
                 <div class="container">
           
@@ -263,10 +257,10 @@
                     </div>
                     
                 </div>
-            </section>
+            </section> -->
             <!-- steps-area-end -->
              <!-- steps-area -->
-            <section class="steps-area2 p-relative fix"  style="background-color: #032e3f;">              
+            <!-- <section class="steps-area2 p-relative fix"  style="background-color: #032e3f;">              
                 <div class="container">
                     <div class="animations-08"><img src="img/bg/an-img-20.png" alt="contact-bg-an-01"></div>
                     <div class="row align-items-center">                       
@@ -292,9 +286,9 @@
                     </div>
                     
                 </div>
-            </section>
+            </section> -->
             <!-- steps-area-end -->
-            <!-- testimonial-area -->
+           <!-- testimonial-area -->
             <section class="testimonial-area pt-120 pb-115 p-relative fix">
                  <div class="animations-01"><img src="img/bg/an-img-03.png" alt="an-img-01"></div>
                 <div class="animations-02"><img src="img/bg/an-img-04.png" alt="contact-bg-an-01"></div>
@@ -304,7 +298,7 @@
                             <div class="section-title text-center mb-50 wow fadeInDown animated" data-animation="fadeInDown" data-delay=".4s">
                                 <h5><i class="fal fa-graduation-cap"></i> Testimonial</h5>
                                 <h2>
-                                 What Our Clients Says
+                                 What Our Student Says
                                 </h2>
                              
                             </div>
@@ -317,106 +311,49 @@
                                      <div class="qt-img">
                                     <img src="img/testimonial/qt-icon.png" alt="img">
                                     </div>
-                                    <p>Curabitur ac tortor ante. Sed quis iaculis risus. Ut ultrices ligula aliquet odio tristique euismod. Donec efficitur dolor in turpis aliquet, at mollis.</p>
-                                    <div class="testi-author">
+                                    <p>It's good school, facilities are good, big playground, supporting from teachers .In summer vacation school provides  many activities.</p>
+                                    <!-- <div class="testi-author">
                                         <img src="img/testimonial/testi_avatar.png" alt="img">
-                                    </div>
+                                    </div> -->
                                     <div class="ta-info">
-                                            <h6>Margie Dose</h6>
-                                            <span>Web Developer</span>
+                                            <h6>Tarachand Patel</h6>
+                                            
                                         </div>                                    
                                 </div>
                                 <div class="single-testimonial text-center">
                                      <div class="qt-img">
                                     <img src="img/testimonial/qt-icon.png" alt="img">
                                     </div>
-                                    <p>Curabitur ac tortor ante. Sed quis iaculis risus. Ut ultrices ligula aliquet odio tristique euismod. Donec efficitur dolor in turpis aliquet, at mollis.</p>
-                                    <div class="testi-author">
+                                    <p>One of the best study environment for the children's at affordable fee......The teachers are professional, caring and well organised.</p>
+                                    <!-- <div class="testi-author">
                                         <img src="img/testimonial/testi_avatar_02.png" alt="img">
-                                    </div>
+                                    </div> -->
                                     <div class="ta-info">
-                                            <h6>Rock Dloder</h6>
-                                            <span>Web Developer</span>
+                                            <h6>Amit Jaiswal</h6>
+                                           
                                         </div>                                    
                                 </div>
                               <div class="single-testimonial text-center">
                                      <div class="qt-img">
                                     <img src="img/testimonial/qt-icon.png" alt="img">
                                     </div>
-                                    <p>Curabitur ac tortor ante. Sed quis iaculis risus. Ut ultrices ligula aliquet odio tristique euismod. Donec efficitur dolor in turpis aliquet, at mollis.</p>
-                                    <div class="testi-author">
+                                    <p>Maintained well disciplin in school, also faculties are more supportive and caring.</p>
+                                    <!-- <div class="testi-author">
                                         <img src="img/testimonial/testi_avatar_03.png" alt="img">
-                                    </div>
+                                    </div> -->
                                     <div class="ta-info">
-                                            <h6>Roboto Eorure</h6>
-                                            <span>Web Developer</span>
+                                            <h6>Daneshwar Sahu</h6>
+                                            
                                         </div>                                    
                                 </div>
-                                <div class="single-testimonial text-center">
-                                     <div class="qt-img">
-                                    <img src="img/testimonial/qt-icon.png" alt="img">
-                                    </div>
-                                    <p>Curabitur ac tortor ante. Sed quis iaculis risus. Ut ultrices ligula aliquet odio tristique euismod. Donec efficitur dolor in turpis aliquet, at mollis.</p>
-                                    <div class="testi-author">
-                                        <img src="img/testimonial/testi_avatar.png" alt="img">
-                                    </div>
-                                    <div class="ta-info">
-                                            <h6>Margie Dose</h6>
-                                            <span>Web Developer</span>
-                                        </div>                                    
-                                </div>
-                               <div class="single-testimonial text-center">
-                                     <div class="qt-img">
-                                    <img src="img/testimonial/qt-icon.png" alt="img">
-                                    </div>
-                                    <p>Curabitur ac tortor ante. Sed quis iaculis risus. Ut ultrices ligula aliquet odio tristique euismod. Donec efficitur dolor in turpis aliquet, at mollis.</p>
-                                    <div class="testi-author">
-                                        <img src="img/testimonial/testi_avatar_02.png" alt="img">
-                                    </div>
-                                    <div class="ta-info">
-                                            <h6>Rock Dloder</h6>
-                                            <span>Web Developer</span>
-                                        </div>                                    
-                                </div>
+                               
                             </div>
                         </div>
                     </div>
                 </div>
             </section>
             <!-- testimonial-area-end -->
-            <!-- brand-area -->
-            <div class="brand-area pt-60 pb-60" style="background-color:#125875">
-                <div class="container">
-                    <div class="row brand-active">
-                        <div class="col-xl-2">
-                            <div class="single-brand">
-                                <img src="img/brand/b-logo1.png" alt="img">
-                            </div>
-                        </div>
-                        <div class="col-xl-2">
-                            <div class="single-brand">
-                                 <img src="img/brand/b-logo2.png" alt="img">
-                            </div>
-                        </div>
-                        <div class="col-xl-2">
-                            <div class="single-brand">
-                                 <img src="img/brand/b-logo3.png" alt="img">
-                            </div>
-                        </div>
-                        <div class="col-xl-2">
-                            <div class="single-brand">
-                                  <img src="img/brand/b-logo4.png" alt="img">
-                            </div>
-                        </div>
-                        <div class="col-xl-2">
-                            <div class="single-brand">
-                                 <img src="img/brand/b-logo5.png" alt="img">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- brand-area-end -->        
+            
          
         </main>
         <!-- main-area-end -->

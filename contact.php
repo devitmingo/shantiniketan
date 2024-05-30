@@ -169,7 +169,7 @@
             </section>
             <!-- contact-area-end -->
        <!-- brand-area -->
-            <div class="brand-area pt-60 pb-60" style="background-color:#125875">
+            <!-- <div class="brand-area pt-60 pb-60" style="background-color:#125875">
                 <div class="container">
                     <div class="row brand-active">
                         <div class="col-xl-2">
@@ -199,7 +199,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
             <!-- brand-area-end -->        
         </main>
         <!-- main-area-end -->
