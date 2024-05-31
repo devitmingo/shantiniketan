@@ -37,7 +37,7 @@
                                          </div>
                                          <div class="text">
                                             <span>Email Now</span>
-                                            <strong><a href="mailto:shantiniketan2009@gmail.com"> shantiniketan2009@gmail.com  </a></strong>                                               
+                                            <strong><a href="mailto:shantiniketan2009@yahoo.co.in"> shantiniketan2009@yahoo.co.in  </a></strong>                                               
                                          </div>
                                       </div>
                                    </li>                                 

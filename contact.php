@@ -56,12 +56,10 @@
                                 </div>
                                <div class="services-content2">
                                     <h6><a href="tel:07712243085">0771- 2243085</a></h6>  
-                                    <h6><a href="tel:+917828168418">+91 78281 68418</a></h6> 
-                                    
-                                    <h6><a href="tel:+918827376688">+91 88273 76688</a></h6>  
                                     <h6><a href="tel:+919425514719">+91 94255 14719</a></h6> 
-
                                     <h6><a href="tel:+919425526891">+91 94255 26891</a></h6>  
+                                    <h6><a href="tel:+917828168418">+91 78281 68418</a></h6> 
+                                    <h6><a href="tel:+918827376688">+91 88273 76688</a></h6>  
                                     <h6><a href="tel:+918982880267">+91 89828 80267</a></h6> 
                                     
                                 </div>
@@ -76,7 +74,7 @@
                                   <img src="img/bg/contact-icon02.png" alt="image">
                                 </div>
                                <div class="services-content2">
-                                    <h4><a href="mailto:shantiniketan2009@gmail.com">shantiniketan2009@gmail.com</a></h4>   
+                                    <h4><a href="mailto:shantiniketan2009@yahoo.co.in">shantiniketan2009@yahoo.co.in</a></h4>   
                                     </br>
                                      
                                 </div>
