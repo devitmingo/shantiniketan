@@ -66,7 +66,17 @@
                                     <ul>
                                     <li>
                                         <i class="icon fal fa-phone"></i>
-                                        <span><a href="tel:+917828168418">+91 78281 68418</a><br><a href="tel:+917052101786">+91 88273 76688</a></span>
+                                        
+                                        <span><a href="tel:0771- 2243085">0771- 2243085</a><br>
+                                            <a href="tel:+917828168418">+91 78281 68418</a><br>
+                                           
+                                        </span>
+                                        <span>
+                                            <a style="margin-left:54px;" href="tel:+917052101786">+91 88273 76688</a></br>
+                                            <a style="margin-left:54px;" href="tel:+919425514719">+91 94255 14719</a><br>
+                                            <a style="margin-left:54px;" href="tel:+919425526891">+91 94255 26891</a><br>
+                                            <a style="margin-left:54px;" href="tel:+918982880267">+91 89828 80267</a><br>
+                                        </span>
                                     </li>
                                    <li><i class="icon fal fa-envelope"></i>
                                         <span>

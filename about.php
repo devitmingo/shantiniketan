@@ -115,7 +115,7 @@
                                         <div id="collapseThree2" class="collapse show"
                                             data-bs-parent="#accordionExample">
                                             <div class="card-body">
-                                                Our community is being called to reimagine the future. As the only university where a renowned design school comes together with premier colleges, we are making learning more relevant and transformational. We are enriched by the wide range.
+                                                Our community is being called to reimagine the future. As the only university where a renowned design college comes together with premier colleges, we are making learning more relevant and transformational. We are enriched by the wide range.
                                             </div>
                                         </div>
                                     </div>
@@ -130,7 +130,7 @@
                                         </div>
                                         <div id="collapseOne" class="collapse" data-bs-parent="#accordionExample">
                                             <div class="card-body">
-                                                Our community is being called to reimagine the future. As the only university where a renowned design school comes together with premier colleges, we are making learning more relevant and transformational. We are enriched by the wide range.
+                                                Our community is being called to reimagine the future. As the only university where a renowned design college comes together with premier colleges, we are making learning more relevant and transformational. We are enriched by the wide range.
                                             </div>
                                         </div>
                                     </div>
@@ -145,7 +145,7 @@
                                         </div>
                                         <div id="collapseTwo" class="collapse" data-bs-parent="#accordionExample">
                                             <div class="card-body">
-                                              Our community is being called to reimagine the future. As the only university where a renowned design school comes together with premier colleges, we are making learning more relevant and transformational. We are enriched by the wide range.
+                                              Our community is being called to reimagine the future. As the only university where a renowned design college comes together with premier colleges, we are making learning more relevant and transformational. We are enriched by the wide range.
                                             </div>
                                         </div>
                                     </div>   
@@ -160,7 +160,7 @@
                                         </div>
                                         <div id="collapseThree" class="collapse" data-bs-parent="#accordionExample">
                                             <div class="card-body">
-                                                Our community is being called to reimagine the future. As the only university where a renowned design school comes together with premier colleges, we are making learning more relevant and transformational. We are enriched by the wide range.
+                                                Our community is being called to reimagine the future. As the only university where a renowned design college comes together with premier colleges, we are making learning more relevant and transformational. We are enriched by the wide range.
                                             </div>
                                         </div>
                                     </div>
@@ -175,7 +175,7 @@
                                         </div>
                                         <div id="collapseFive" class="collapse" data-bs-parent="#accordionExample">
                                             <div class="card-body">
-                                                Our community is being called to reimagine the future. As the only university where a renowned design school comes together with premier colleges, we are making learning more relevant and transformational. We are enriched by the wide range.
+                                                Our community is being called to reimagine the future. As the only university where a renowned design college comes together with premier colleges, we are making learning more relevant and transformational. We are enriched by the wide range.
                                             </div>
                                         </div>
                                     </div>
@@ -311,7 +311,7 @@
                                      <div class="qt-img">
                                     <img src="img/testimonial/qt-icon.png" alt="img">
                                     </div>
-                                    <p>It's good school, facilities are good, big playground, supporting from teachers .In summer vacation school provides  many activities.</p>
+                                    <p>It's good college, facilities are good, big playground, supporting from teachers .In summer vacation college provides  many activities.</p>
                                     <!-- <div class="testi-author">
                                         <img src="img/testimonial/testi_avatar.png" alt="img">
                                     </div> -->
@@ -337,7 +337,7 @@
                                      <div class="qt-img">
                                     <img src="img/testimonial/qt-icon.png" alt="img">
                                     </div>
-                                    <p>Maintained well disciplin in school, also faculties are more supportive and caring.</p>
+                                    <p>Maintained well disciplin in college, also faculties are more supportive and caring.</p>
                                     <!-- <div class="testi-author">
                                         <img src="img/testimonial/testi_avatar_03.png" alt="img">
                                     </div> -->

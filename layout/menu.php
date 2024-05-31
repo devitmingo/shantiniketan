@@ -22,7 +22,7 @@
                                    <li>
                                       <div class="call-box">
                                          <div class="icon">
-                                            <img src="images/snc.jpeg" alt="img" style="width:70px;">
+                                            <img src="img/icon/phone-call.png" alt="img">
                                          </div>
                                          <div class="text">
                                             <span>Call Now !</span>

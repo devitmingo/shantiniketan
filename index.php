@@ -484,7 +484,7 @@
                                         <div id="collapseThree" class="collapse show" 
                                             data-bs-parent="#accordionExample">
                                             <div class="card-body">
-                                                Our community is being called to reimagine the future. As the only university where a renowned design school comes together with premier colleges, we are making learning more relevant and transformational. We are enriched by the wide range.
+                                                Our community is being called to reimagine the future. As the only university where a renowned design college comes together with premier colleges, we are making learning more relevant and transformational. We are enriched by the wide range.
                                             </div>
                                         </div>
                                     </div>
@@ -499,7 +499,7 @@
                                         </div>
                                         <div id="collapseOne" class="collapse" data-bs-parent="#accordionExample">
                                             <div class="card-body">
-                                                Our community is being called to reimagine the future. As the only university where a renowned design school comes together with premier colleges, we are making learning more relevant and transformational. We are enriched by the wide range.
+                                                Our community is being called to reimagine the future. As the only university where a renowned design college comes together with premier colleges, we are making learning more relevant and transformational. We are enriched by the wide range.
                                             </div>
                                         </div>
                                     </div>
@@ -514,7 +514,7 @@
                                         </div>
                                         <div id="collapseTwo" class="collapse" data-bs-parent="#accordionExample">
                                             <div class="card-body">
-                                              Our community is being called to reimagine the future. As the only university where a renowned design school comes together with premier colleges, we are making learning more relevant and transformational. We are enriched by the wide range.
+                                              Our community is being called to reimagine the future. As the only university where a renowned design college comes together with premier colleges, we are making learning more relevant and transformational. We are enriched by the wide range.
                                             </div>
                                         </div>
                                     </div>   
@@ -529,7 +529,7 @@
                                         </div>
                                         <div id="collapseFour" class="collapse" data-bs-parent="#accordionExample">
                                             <div class="card-body">
-                                                Our community is being called to reimagine the future. As the only university where a renowned design school comes together with premier colleges, we are making learning more relevant and transformational. We are enriched by the wide range.
+                                                Our community is being called to reimagine the future. As the only university where a renowned design college comes together with premier colleges, we are making learning more relevant and transformational. We are enriched by the wide range.
                                             </div>
                                         </div>
                                     </div>
@@ -544,7 +544,7 @@
                                         </div>
                                         <div id="collapseFive" class="collapse" data-bs-parent="#accordionExample">
                                             <div class="card-body">
-                                                Our community is being called to reimagine the future. As the only university where a renowned design school comes together with premier colleges, we are making learning more relevant and transformational. We are enriched by the wide range.
+                                                Our community is being called to reimagine the future. As the only university where a renowned design college comes together with premier colleges, we are making learning more relevant and transformational. We are enriched by the wide range.
                                             </div>
                                         </div>
                                     </div>
@@ -604,7 +604,7 @@
                         <div class="col-xl-6 col-lg-6 col-md-12">
                             <div class="section-title cta-title video-title wow fadeInLeft animated" data-animation="fadeInDown animated" data-delay=".2s">
                                 <h2> We're <span>Qeducato</span> & We're Diffirent</h2>
-                                <p>Our community is being called to reimagine the future. As the only university where a renowned design school  colleges, </p>	
+                                <p>Our community is being called to reimagine the future. As the only university where a renowned design college  colleges, </p>	
                             </div>
                                              
                         </div>
@@ -644,7 +644,7 @@
                                      <div class="qt-img">
                                     <img src="img/testimonial/qt-icon.png" alt="img">
                                     </div>
-                                    <p>It's good school, facilities are good, big playground, supporting from teachers .In summer vacation school provides  many activities.</p>
+                                    <p>It's good college, facilities are good, big playground, supporting from teachers .In summer vacation college provides  many activities.</p>
                                     <!-- <div class="testi-author">
                                         <img src="img/testimonial/testi_avatar.png" alt="img">
                                     </div> -->
@@ -670,7 +670,7 @@
                                      <div class="qt-img">
                                     <img src="img/testimonial/qt-icon.png" alt="img">
                                     </div>
-                                    <p>Maintained well disciplin in school, also faculties are more supportive and caring.</p>
+                                    <p>Maintained well disciplin in college, also faculties are more supportive and caring.</p>
                                     <!-- <div class="testi-author">
                                         <img src="img/testimonial/testi_avatar_03.png" alt="img">
                                     </div> -->
@@ -698,7 +698,7 @@
                                 <h2>
                                   Search For Courses
                                 </h2>
-                                <p>Our community is being called to reimagine the future. As the only university where a renowned design school comes together with premier colleges, we are making learning more relevant and transformational.</p>
+                                <p>Our community is being called to reimagine the future. As the only university where a renowned design college comes together with premier colleges, we are making learning more relevant and transformational.</p>
                             </div>
                                 
 						<form action="https://htmldemo.zcubethemes.com/qeducato/mail.php" method="post" class="contact-form mt-30 wow fadeInUp animated" data-animation="fadeInUp" data-delay=".4s">
@@ -783,7 +783,7 @@
                                 <div class="about-title second-title pb-25">  
                                     <h2>Admission & Aid</h2>                                   
                                 </div>
-                                   <p class="txt-clr">Our community is being called to reimagine the future. As the only university where a renowned design school comes together with premier colleges, we are making learning more relevant and transformational.</p>
+                                   <p class="txt-clr">Our community is being called to reimagine the future. As the only university where a renowned design college comes together with premier colleges, we are making learning more relevant and transformational.</p>
                                    <p class="txt-clr">At Estuidar University, we prepare you to launch your career by pro supportive, creative, and professional environment from which to learn practical skills, build a network of industry contacts.</p>
                                  <div class="slider-btn mt-20">                                          
                                      <a href="about.php" class="btn ss-btn smoth-scroll">Read More <i class="fal fa-long-arrow-right"></i></a>				
